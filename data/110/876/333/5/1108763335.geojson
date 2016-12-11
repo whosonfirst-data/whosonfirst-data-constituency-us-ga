@@ -9,7 +9,7 @@
     "geom:bbox":"-85.32254,32.95886,-84.93226,33.610665",
     "geom:latitude":33.322513,
     "geom:longitude":-85.126879,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1594308854.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 69",
     "uscensus:sldlst":"069",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486312,
     "wof:geomhash":"d459b5750e4d1ffda1be290abb1aec3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763335,
     "wof:lastmodified":1481486312,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

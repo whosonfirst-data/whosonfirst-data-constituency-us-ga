@@ -9,7 +9,7 @@
     "geom:bbox":"-84.11266,33.70846,-83.90846,33.849429",
     "geom:latitude":33.779967,
     "geom:longitude":-84.038484,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":108484944.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 93",
     "uscensus:sldlst":"093",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486324,
     "wof:geomhash":"68a9dd395e0c49b489235be06a63e31a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763389,
     "wof:lastmodified":1481486324,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

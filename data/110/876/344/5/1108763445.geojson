@@ -9,7 +9,7 @@
     "geom:bbox":"-83.4842,33.898201,-83.24086,34.040572",
     "geom:latitude":33.977463,
     "geom:longitude":-83.348072,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":156919546.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 118",
     "uscensus:sldlst":"118",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486331,
     "wof:geomhash":"fbec50c162d682b2d987389c750fd712",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763445,
     "wof:lastmodified":1481486331,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

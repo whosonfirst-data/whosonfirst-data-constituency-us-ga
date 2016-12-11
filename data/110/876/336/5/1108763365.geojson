@@ -9,7 +9,7 @@
     "geom:bbox":"-84.34852,33.775411,-84.265102,33.879746",
     "geom:latitude":33.830332,
     "geom:longitude":-84.308392,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":34899022.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 82",
     "uscensus:sldlst":"082",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486321,
     "wof:geomhash":"fd4afe5c45219ba587f09f4f41b1fe64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763365,
     "wof:lastmodified":1481486321,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-82.08642,33.422284,-81.95528,33.544934",
     "geom:latitude":33.47869,
     "geom:longitude":-82.019244,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":65298163.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 124",
     "uscensus:sldlst":"124",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486333,
     "wof:geomhash":"5cb623f902cefa138fea4b5783167a31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763459,
     "wof:lastmodified":1481486333,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

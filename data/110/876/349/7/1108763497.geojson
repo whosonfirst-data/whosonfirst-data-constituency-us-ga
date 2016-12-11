@@ -9,7 +9,7 @@
     "geom:bbox":"-84.04288,32.81787,-83.67442,33.139199",
     "geom:latitude":32.982057,
     "geom:longitude":-83.846342,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":698631763.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 141",
     "uscensus:sldlst":"141",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486339,
     "wof:geomhash":"ffd482e7920a79a2152d22973bfcf52e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763497,
     "wof:lastmodified":1481486339,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

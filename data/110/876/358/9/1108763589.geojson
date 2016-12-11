@@ -9,7 +9,7 @@
     "geom:bbox":"-81.2955,31.941712,-80.9986,32.237591",
     "geom:latitude":32.087063,
     "geom:longitude":-81.1555,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":374826386.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 2",
     "uscensus:sldust":"002",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486372,
     "wof:geomhash":"14d9e6bd5afc15d758e797be339f7900",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763589,
     "wof:lastmodified":1481486372,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

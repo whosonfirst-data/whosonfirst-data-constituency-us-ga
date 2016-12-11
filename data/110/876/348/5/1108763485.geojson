@@ -9,7 +9,7 @@
     "geom:bbox":"-84.96139,32.400813,-84.83765,32.583402",
     "geom:latitude":32.478862,
     "geom:longitude":-84.900648,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":87107402.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 136",
     "uscensus:sldlst":"136",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486337,
     "wof:geomhash":"f5177e36e3c3ac0939fab8e65776984a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763485,
     "wof:lastmodified":1481486337,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

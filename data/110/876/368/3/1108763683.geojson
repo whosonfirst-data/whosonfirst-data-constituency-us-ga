@@ -9,7 +9,7 @@
     "geom:bbox":"-84.40239,33.35246,-84.24386,33.74742",
     "geom:latitude":33.558834,
     "geom:longitude":-84.32452,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":288053426.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 44",
     "uscensus:sldust":"044",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486389,
     "wof:geomhash":"bd021f07c593f9e550c86ace00281aad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763683,
     "wof:lastmodified":1481486389,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],

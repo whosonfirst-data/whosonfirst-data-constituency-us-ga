@@ -9,7 +9,7 @@
     "geom:bbox":"-83.98482,34.24334,-83.61525,34.558955",
     "geom:latitude":34.401394,
     "geom:longitude":-83.78876,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":605416641.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 27",
     "uscensus:sldlst":"027",
     "uscensus:statefp":"13",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688535
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486301,
     "wof:geomhash":"cb25ef6db244b0ac8858c16b557ab763",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688535
+        }
+    ],
     "wof:id":1108763241,
     "wof:lastmodified":1481486301,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688535,
     "wof:repo":"whosonfirst-data-constituency-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
